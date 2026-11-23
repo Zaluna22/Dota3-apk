@@ -4,4 +4,4 @@ APK do protótipo pessoal DOTA 3 (Android). O código fica num repositório priv
 
 **Baixar a versão mais nova:** https://github.com/Zaluna22/Dota3-apk/releases/latest/download/moba-prototipo.apk
 
-Versão atual: v0.12.8 (Necrophos: Foice do Ceifador refeita (ceifador fantasma + golpe) e alcances iguais ao Dota 2 (Pulso 500, Manto 700, Aura 700, Foice 600).).
+Versão atual: v0.12.9 (Necrophos: Foice prioriza o herói mais ferido, alcance 600 exato e mostra o dano.).
