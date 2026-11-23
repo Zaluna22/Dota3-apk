@@ -4,4 +4,4 @@ APK do protótipo pessoal DOTA 3 (Android). O código fica num repositório priv
 
 **Baixar a versão mais nova:** https://github.com/Zaluna22/Dota3-apk/releases/latest/download/moba-prototipo.apk
 
-Versão atual: v0.12.22 (Negar creeps (deny) como no Dota 2: botão Negar no celular, '!' no creep negado, rival sem ouro e com 50% de XP.).
+Versão atual: v0.12.23 (Courier como no Dota 2: compre longe da loja e aperte COURIER para receber os itens; pode morrer e dá ouro ao inimigo.).
