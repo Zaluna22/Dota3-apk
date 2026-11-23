@@ -34,6 +34,7 @@ jobs:
           git config user.email "41898+github-actions[bot]@users.noreply.github.com"
           NOTAS="$V"
           [ -f notas.txt ] && NOTAS="$V ($(head -1 notas.txt))"
+          rm -f moba-prototipo.apk
           git fetch origin main
           git checkout -B main origin/main
           sed -i "s|^Versão atual:.*|Versão atual: $NOTAS.|" README.md
