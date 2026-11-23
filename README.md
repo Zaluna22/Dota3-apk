@@ -4,4 +4,4 @@ APK do protótipo pessoal DOTA 3 (Android). O código fica num repositório priv
 
 **Baixar a versão mais nova:** https://github.com/Zaluna22/Dota3-apk/releases/latest/download/moba-prototipo.apk
 
-Versão atual: v0.12.15 (Necrophos com o modelo Rodin certo do dono: textura sem quebrar, sem espinhos, brilho na barba e no manto.).
+Versão atual: v0.12.16 (Escudo de Gelo do Lich no padrão do Dota 2: bolha de gelo, alcance 8 m, pulso 6 m, números por nível).
