@@ -4,4 +4,4 @@ APK do protótipo pessoal DOTA 3 (Android). O código fica num repositório priv
 
 **Baixar a versão mais nova:** https://github.com/Zaluna22/Dota3-apk/releases/latest/download/moba-prototipo.apk
 
-Versão atual: v0.12.2 (efeitos do Pudge: Podridão como nuvem tóxica e Gancho com arremesso do braço e ponta de gancho visível).
+Versão atual: v0.12.3 (Podridão do Pudge sem borda: fumaça suave, sem anel nem mancha de contorno duro).
