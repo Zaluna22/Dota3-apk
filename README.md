@@ -4,4 +4,4 @@ APK do protótipo pessoal DOTA 3 (Android). O código fica num repositório priv
 
 **Baixar a versão mais nova:** https://github.com/Zaluna22/Dota3-apk/releases/latest/download/moba-prototipo.apk
 
-Versão atual: v0.12.17 (Corrente de Gelo do Lich no padrão do Dota 2: bola de gelo maior e mais lenta, alcance 7,5 m, pulos de 5,5 m).
+Versão atual: v0.12.18 (Mana no padrão do Dota 2 para todos os heróis, item Clareza, barra azul de mana).
