@@ -4,4 +4,4 @@ APK do protótipo pessoal DOTA 3 (Android). O código fica num repositório priv
 
 **Baixar a versão mais nova:** https://github.com/Zaluna22/Dota3-apk/releases/latest/download/moba-prototipo.apk
 
-Versão atual: v0.12.5 (Necrophos: Pulso da Morte refeito com caveiras verdes voadoras e sem anel de alcance.).
+Versão atual: v0.12.6 (Necrophos: Manto Fantasma vira fantasma verde translúcido com névoa, sem anel no chão.).
