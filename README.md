@@ -4,4 +4,4 @@ APK do protótipo pessoal DOTA 3 (Android). O código fica num repositório priv
 
 **Baixar a versão mais nova:** https://github.com/Zaluna22/Dota3-apk/releases/latest/download/moba-prototipo.apk
 
-Versão atual: v0.12.19 (Escudo de Gelo com a onda de pulso visível).
+Versão atual: v0.12.20 (Novo herói Axe (Guerreiro): Grito do Berserker, Fome de Batalha, Contra-Espiral e Execução com os valores do Dota 2 7.42. Modelo provisório (Bárbaro avermelhado) até o modelo do Rodin.).
