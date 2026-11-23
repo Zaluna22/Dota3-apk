@@ -1,0 +1,42 @@
+name: Publicar APK
+on:
+  push:
+    branches: [publicar]
+permissions:
+  contents: write
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: publicar
+      - name: Juntar partes e conferir
+        run: |
+          V=$(tr -d ' \n\r' < versao.txt)
+          echo "V=$V" >> "$GITHUB_ENV"
+          cat moba-prototipo.apk.part-* > moba-prototipo.apk
+          if [ -f sha256.txt ]; then echo "$(tr -d ' \n\r' < sha256.txt)  moba-prototipo.apk" | sha256sum -c -; fi
+          ls -l moba-prototipo.apk
+      - name: Criar release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release delete "$V" --yes --cleanup-tag || true
+          NOTAS="APK $V"
+          [ -f notas.txt ] && NOTAS=$(cat notas.txt)
+          gh release create "$V" moba-prototipo.apk --title "$V" --notes "$NOTAS" --latest
+      - name: Atualizar README e apagar branch publicar
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898+github-actions[bot]@users.noreply.github.com"
+          NOTAS="$V"
+          [ -f notas.txt ] && NOTAS="$V ($(head -1 notas.txt))"
+          git fetch origin main
+          git checkout -B main origin/main
+          sed -i "s|^Versão atual:.*|Versão atual: $NOTAS.|" README.md
+          git commit -am "README: versão atual $V" || true
+          git push origin main
+          git push origin --delete publicar
