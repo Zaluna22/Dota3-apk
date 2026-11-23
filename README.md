@@ -4,4 +4,4 @@ APK do protótipo pessoal DOTA 3 (Android). O código fica num repositório priv
 
 **Baixar a versão mais nova:** https://github.com/Zaluna22/Dota3-apk/releases/latest/download/moba-prototipo.apk
 
-Versão atual: v0.12.0 (Necrophos, 5v5 com funções do Dota 2).
+Versão atual: v0.12.1 (Pudge rebalanceado: Gancho mais longo e mais lento, Desmembrar cura 100% do dano).
