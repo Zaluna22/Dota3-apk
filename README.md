@@ -4,4 +4,4 @@ APK do protótipo pessoal DOTA 3 (Android). O código fica num repositório priv
 
 **Baixar a versão mais nova:** https://github.com/Zaluna22/Dota3-apk/releases/latest/download/moba-prototipo.apk
 
-Versão atual: v0.12.47 (v0.12.47: Dire no mapa do jogo — chão de rocha rachada com caminhos de terra escura (transição natural no rio), as 4 árvores secas do dono variando modelo, tamanho, giro e tom por bosque, e poucos grupinhos de arbustos espinhosos com o pé pintado no chão; folhas dos arbustos mais vinho-escuro.).
+Versão atual: v0.12.48 (v0.12.48 (versão 91): Dire mais rico — árvores de copa vermelha com tronco quase preto, árvores secas mais escuras, selva mais fechada, folhas vermelhas caídas e névoa no chão, moitas cinza-esverdeadas, mato alto do Dire como moitas escuras, ossos, crânios, cogumelos laranja, galhos caídos e pedras escuras; pedras do rio do lado Dire escuras.).
