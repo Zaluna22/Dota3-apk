@@ -4,4 +4,4 @@ APK do protótipo pessoal DOTA 3 (Android). O código fica num repositório priv
 
 **Baixar a versão mais nova:** https://github.com/Zaluna22/Dota3-apk/releases/latest/download/moba-prototipo.apk
 
-Versão atual: v0.12.41 (Grama do Radiant maior (8 m por repetição)).
+Versão atual: v0.12.42 (Chão do Dire na zona de arte (botão Ver Dire)).
