@@ -4,4 +4,4 @@ APK do protótipo pessoal DOTA 3 (Android). O código fica num repositório priv
 
 **Baixar a versão mais nova:** https://github.com/Zaluna22/Dota3-apk/releases/latest/download/moba-prototipo.apk
 
-Versão atual: v0.12.54 (Rio no mapa: escadas de pedra nas lanes, runas e entradas da selva; barrancos não andáveis; poço do Roshan (vazio) preparado.).
+Versão atual: v0.12.55 (Desempenho, passo 1: distância de visão na decoração do mapa (árvores, pedras, moitas, mato, ossos, lajes do rio) e versão simples das árvores longe da câmera. Visual de perto igual.).
