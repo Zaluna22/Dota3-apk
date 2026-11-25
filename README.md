@@ -4,4 +4,4 @@ APK do protótipo pessoal DOTA 3 (Android). O código fica num repositório priv
 
 **Baixar a versão mais nova:** https://github.com/Zaluna22/Dota3-apk/releases/latest/download/moba-prototipo.apk
 
-Versão atual: v0.12.43 (Arbustos espinhosos no Dire da zona de arte).
+Versão atual: v0.12.44 (Arbustos do Dire unidos ao chão).
