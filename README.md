@@ -4,4 +4,4 @@ APK do protótipo pessoal DOTA 3 (Android). O código fica num repositório priv
 
 **Baixar a versão mais nova:** https://github.com/Zaluna22/Dota3-apk/releases/latest/download/moba-prototipo.apk
 
-Versão atual: v0.12.55 (Desempenho, passo 1: distância de visão na decoração do mapa (árvores, pedras, moitas, mato, ossos, lajes do rio) e versão simples das árvores longe da câmera. Visual de perto igual.).
+Versão atual: v0.12.56 (Axe segura o machado com as duas mãos no meio do cabo, anda ereto, golpe de cima com as duas mãos e giro do corpo inteiro no Counter Helix).
