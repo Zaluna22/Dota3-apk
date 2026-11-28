@@ -4,4 +4,4 @@ APK do protótipo pessoal DOTA 3 (Android). O código fica num repositório priv
 
 **Baixar a versão mais nova:** https://github.com/Zaluna22/Dota3-apk/releases/latest/download/moba-prototipo.apk
 
-Versão atual: v0.13.6 (Etapa 2.3 do mapa: visão de altura. Quem está no terreno baixo não vê o high ground (névoa de guerra, minimapa e alvos); de cima se vê embaixo. Torres e sentinelas veem tudo.).
+Versão atual: v0.13.7 (Etapa 2.4 do mapa: penhascos com cara de rocha (lado do sol mais claro, sombra no pé) e árvores/enfeites fora da face do penhasco.).
